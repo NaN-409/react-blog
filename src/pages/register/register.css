@@ -1,0 +1,50 @@
+.register {
+    /* width: 100vw;
+    height: 100vh; */
+    height: calc(100vh - 50px);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background:linear-gradient(
+    rgba(255, 255, 255, 0.3),
+    rgba(255, 255, 255, 0.3)),
+    url("https://images.pexels.com/photos/159618/still-life-school-retro-ink-159618.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.registerTitle {
+    font-size: 50px;
+}
+.registerForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.registerForm label {
+    margin: 10px 0;
+}
+.registerInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+}
+.registerButton {
+    color: white;
+    background-color: tomato;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+    padding: 10px;
+}
+.loginLoginButton {
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+}
