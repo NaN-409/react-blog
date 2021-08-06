@@ -32,7 +32,7 @@ function SideBar() {
                 <i className=" sidebarIcon fab fa-twitter-square"></i></a>
                 <a href="https://www.pinterest.com/">
                 <i className=" sidebarIcon fab fa-pinterest-square"></i></a>
-                <a href="https://www.youtube.com/watch?v=tlTdbc5byAs&t=1306s">
+                <a href="">
                 <i className=" sidebarIcon fab fa-instagram-square"></i></a>
                 </div>
                 </div> 
