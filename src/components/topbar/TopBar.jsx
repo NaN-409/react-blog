@@ -31,7 +31,7 @@ export default function TopBar() {
                     user ? (
                         
                 <div className="topImg">
-                <img src="https://images.pexels.com/photos/5565715/pexels-photo-5565715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" />
+                {/* <img src="https://images.pexels.com/photos/5565715/pexels-photo-5565715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="" /> */}
                 </div>
                     ): (
                         <ul className="topList">

@@ -4,10 +4,10 @@ export default function SinglePost() {
     return (
         <div className="singlePost">
             <div className="singlePostWrapper">
-                <img src="https://images.pexels.com/photos/631037/pexels-photo-631037.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000" alt="" 
+                {/* <img src="https://review.chinabrands.com/chinabrands/seo/image/20190104/internet%20marketing.png" alt=""  */}
                 className="singlePostImg" />
                 <h1 className="singlePost">
-                    Lorem ipsum dolor sit amet.
+                Raqamli marketing va elektron biznes
             <div className="singlePostEdit">
                 <i className="singlePostIcon fas fa-edit"></i>
                 <i className="singlePostIcon fas fa-trash-alt"></i>
@@ -18,27 +18,9 @@ export default function SinglePost() {
                 <span className="singlePostDate">1 hour ago</span>
             </div>
             <p className="singlePostDesc"> 
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Doloribus sint natus fuga consequatur repellat eius at
-        omnis voluptas labore vel, aspernatur eligendi quas error
-        am nemo iusto consequuntur atque quos architecto quis perspiciatis. Fugit 
-        distinctio architecto a, pariatur repudiandae sint.
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio, earum. Velit
-        amet labore adipisci eos provident ratione officiis quia ad.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Doloribus sint natus fuga consequatur repellat eius at
-        omnis voluptas labore vel, aspernatur eligendi quas error
-        am nemo iusto consequuntur atque quos architecto quis perspiciatis. Fugit 
-        distinctio architecto a, pariatur repudiandae sint.
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio, earum. Velit
-        amet labore adipisci eos provident ratione officiis quia ad.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        Doloribus sint natus fuga consequatur repellat eius at
-        omnis voluptas labore vel, aspernatur eligendi quas error
-        am nemo iusto consequuntur atque quos architecto quis perspiciatis. Fugit 
-        distinctio architecto a, pariatur repudiandae sint.
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio, earum. Velit
-        amet labore adipisci eos provident ratione officiis quia ad.
+            Iste'molchilari World Wide Web imkoniyatlaridan faol foydalanayotgan ko'plab brendlar uchun raqamli marketing strategiyasi butun korporativ strategiyaning asosiy bo'g'ini hisoblanadi. Ushbu integratsiya sarmoyalar rentabelligini oshiradi.
+
+Zamonaviy raqamli texnologiyalardan foydalanish tovar va mijozlar o'rtasidagi o'zaro aloqalarni kengaytiradi va chuqurlashtiradi, bu esa savdo hajmini oshiradi va sodiqlikni oshiradi. Virusli effekt va arzon reklama kanallari reklama xarajatlarini kamaytiradi.    
                 </p>
             </div>
         </div>

@@ -6,12 +6,8 @@ function SideBar() {
         <div className="sidebar">
             <div className="sideBarItem">
                 <span className="sideBarTitle">About Me</span>
-                <img src="https://images.pexels.com/photos/2317577/pexels-photo-2317577.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" />
-                <p>Lorem ipsum, dolor sit amet consectetur 
-                adipisicing elit. Beatae laborum, quas numquam
-                suscipit distinctio neque, saepe maxime nisi nobis sunt tempore 
-                commodi. Repellat voluptatum maiores dicta ipsam quisquam, dolore
-                numquam.</p>
+                {/* <img src="https://st.depositphotos.com/1000940/2821/v/600/depositphotos_28213453-stock-illustration-vector-internet-marketing-concept.jpg" alt="" /> */}
+                <p>Raqamli marketing bo'yicha qo'llanma xilma-xil bo'lib, u taniqli asosiy va rivojlangan vositalarni o'z ichiga oladi. Ba'zi raqamli vositalardan oflayn rejimda foydalanish mumkin.</p>
                 <div className="sideBarItem">
                     <span className="sideBarTitle">CATEGORIES</span>
                     <ul className="sideBarList">

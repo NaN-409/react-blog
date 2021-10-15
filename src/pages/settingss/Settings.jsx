@@ -13,7 +13,7 @@ export default function Settings () {
                     <label>Profile picture</label>
                     <div className="settingsPP">
                         <img 
-                        src="https://images.pexels.com/photos/2806361/pexels-photo-2806361.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" 
+                        // src="https://review.chinabrands.com/chinabrands/seo/image/20190104/internet%20marketing%20solutions.jpeg" 
                         alt="" 
                         />
                         <label htmlFor="fileInput">

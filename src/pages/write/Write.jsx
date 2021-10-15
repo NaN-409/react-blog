@@ -5,7 +5,7 @@ export default function Write() {
         <div className="write">
         <img 
         className="writeImg"
-        src="https://images.pexels.com/photos/1433473/pexels-photo-1433473.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" 
+        // src="https://www.belrynok.by/wp-content/uploads/2020/03/instrumenty_internet_marketinga1.jpg" 
         alt="" />
             <div className="writeForm">
                 <div className="writeFormGroup">
